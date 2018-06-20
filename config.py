@@ -1,0 +1,2 @@
+GRID_SEARCH_CV="grid"
+RANDOMIZED_SEARCH_CV="randomized"
